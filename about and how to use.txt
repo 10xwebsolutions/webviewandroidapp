@@ -1,0 +1,4 @@
+this is a simple android app using webview. one can use its source 
+code and its layout and can edit the code accordingly.
+just get the source code for layout use res folder and layout
+and xml file and for java file find it inside the src.
